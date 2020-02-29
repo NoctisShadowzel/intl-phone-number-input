@@ -1,3 +1,5 @@
+## This is a fork from original repository, for customizing it for my own project.
+
 # Intl Phone Number Input
 
 A simple and customizable flutter package for international phone number input
